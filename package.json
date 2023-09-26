@@ -1,0 +1,26 @@
+{
+  "name": "projeto17-shortly-t11rec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmoraesaraujo/projeto17-shortly-T11Rec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmoraesaraujo/projeto17-shortly-T11Rec/issues"
+  },
+  "homepage": "https://github.com/gabrielmoraesaraujo/projeto17-shortly-T11Rec#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "joi": "^17.10.2",
+    "pg": "^8.11.3"
+  }
+}
